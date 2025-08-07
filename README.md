@@ -17,6 +17,12 @@
 > * All project phases are to be submitted to this GitHub repository. You should modify this README file to reflect the different phases of the project. In addition, you should regularly hold sprint meetings with your group. You will need to hold two to three scrum/check-in meetings with your lab TA/reader at different times in addition to the final demo.
 
 ## Project Description
+We chose to develop a fully functional chess game with added features like allowing players to undo moves. Chess is a strategy game that has maintained its popularity for a long time. Building it as a software project requires user-interface development and object oriented programming. This project is interesting and important to us because it allows us to implement well-defined game rules, and practice handling complex game state. Chess also has a clear progression of features, making it a good program to learn the software engineering processes from.
+
+The primary language we plan to use is C++ as the IDE we will use is VSCode. 
+The libraries we will use are STL for data structures and algorithms and SFML for the graphical interface. 
+Lastly, we will use GoogleTest for automated testing.
+
  > Your project description should summarize the project you are proposing. Be sure to include:
  > * Why is it important or interesting to you?
  > * What languages/tools/technologies do you plan to use? (This list may change over the course of the project)
